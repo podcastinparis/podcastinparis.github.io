@@ -9,7 +9,7 @@ actors:
     url: 
 author: ds
 description: ぽっどきゃすと
-description_long: ぽっどきゃすとです。
+description_long: いろいろとはなすやつ
 email: podcast@daaa.fr
 exclude:
   - docker
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: #podcastinparis
+hashtag: podcastinparis
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
