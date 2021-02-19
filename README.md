@@ -1,3 +1,3 @@
-# Yattecast
+# Podcanst in Paris
 
-https://r7kamura.github.io/yattecast/
+https://podcast.daaa.fr
