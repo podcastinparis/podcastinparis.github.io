@@ -1,16 +1,16 @@
 actors:
   alice:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    name: Yamane TARO
+    url: 
   bob:
     image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+    name: Goh
+    url: 
+author: ds
+description: ぽっどきゃすと
+description_long: ぽっどきゃすとです。
+email: podcast@daaa.fr
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: #podcastinparis
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Podcast in Paris
+url: https://poscast.daaa.fr
